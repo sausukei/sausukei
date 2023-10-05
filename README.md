@@ -21,13 +21,13 @@
 [![](https://raw.githubusercontent.com/sausukei/sausukei/main/profile-summary-card-output/algolia/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/sausukei/sausukei/main/profile-summary-card-output/algolia/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ## MY SKILLS
-### USE
+### Use
 [![My Skills](https://skillicons.dev/icons?i=vscode,neovim,vim)](https://skillicons.dev)
 ### LEARN
 [![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,react,next,deno,python&perline=3)](https://skillicons.dev)
-### TRY
+### Try
 [![My Skills](https://skillicons.dev/icons?i=go,flutter,ruby)](https://skillicons.dev)
-### LIKE
+### Like
 [![My Skills](https://skillicons.dev/icons?i=raspberrypi,linux,)](https://skillicons.dev)
 
 ## CONTRIBUTES
