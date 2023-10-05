@@ -23,7 +23,7 @@
 ## MY SKILLS
 ### Use
 [![My Skills](https://skillicons.dev/icons?i=vscode,neovim,vim)](https://skillicons.dev)
-### LEARN
+### Learn
 [![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,react,next,deno,python&perline=3)](https://skillicons.dev)
 ### Try
 [![My Skills](https://skillicons.dev/icons?i=go,flutter,ruby)](https://skillicons.dev)
