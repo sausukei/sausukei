@@ -31,10 +31,15 @@
 [![My Skills](https://skillicons.dev/icons?i=raspberrypi,linux,)](https://skillicons.dev)
 
 ## CONTRIBUTES
+
 ### jigintern
-- baby studio https://github.com/jigintern/2021_spring_music
-- pulchra https://github.com/jigintern/2021-summer-1-a
-- bousai https://github.com/jigintern/2021-summer-2-b
-- helpmap https://github.com/jigintern/2022-winter-2-a
+* baby studio - tone.jsなどを活用した活用しただれでも音楽を作るwebアプリ
+  * https://github.com/jigintern/2021_spring_music
+* pulchra - 観光地をお勧めするwebアプリ 
+  * https://github.com/jigintern/2021-summer-1-a
+* bousai - 防災に関連するクイズwebアプリ
+  * https://github.com/jigintern/2021-summer-2-b
+* helpmap - 助けを求めるSNS
+  * https://github.com/jigintern/2022-winter-2-a
 
 
