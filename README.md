@@ -35,6 +35,6 @@
 - baby studio https://github.com/jigintern/2021_spring_music
 - pulchra https://github.com/sausukei/2021-summer-1-a
 - bousai https://github.com/sausukei/2021-summer-2-b
-- help https://github.com/jigintern/2022-winter-2-a
+- helpmap https://github.com/jigintern/2022-winter-2-a
 
 
