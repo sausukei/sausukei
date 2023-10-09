@@ -45,3 +45,7 @@
   * https://github.com/jigintern/2022-winter-2-a
 
 
+## other
+* 超カップ麺タイマー - web上で動くカップ麺タイマー
+
+
