@@ -47,5 +47,5 @@
 
 ## other
 * 超カップ麺タイマー - web上で動くカップ麺タイマー
-
+  * https://sausukei.github.io/cupmen-timer/
 
