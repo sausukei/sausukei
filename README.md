@@ -35,7 +35,7 @@
 ## CONTRIBUTES
 
 ### jigintern
-* baby studio - tone.jsなどを活用した活用しただれでも音楽を作るwebアプリ
+* baby studio - tone.jsなどを活用しただれでも音楽を作るwebアプリ
   * https://github.com/jigintern/2021_spring_music
 * pulchra - 観光地をお勧めするwebアプリ 
   * https://github.com/jigintern/2021-summer-1-a
