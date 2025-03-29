@@ -12,7 +12,7 @@
 </p>
 
 ## ABOUT ME
-sabae city
+sabae city <br>
 僕の淹れるコーヒーは一番美味しいです
 
 ## STATUS
